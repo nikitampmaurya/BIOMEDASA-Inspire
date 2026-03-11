@@ -2,7 +2,7 @@
 
 BIOMEDASA-Inspire promotes data science careers to schoolchildren in the Liverpool City Region, particularly those from deprived socioeconomic backgrounds. The diversity gap in data science 
 begins in childhood, where children from disadvantaged backgrounds often lack access to home computers or role models in data professions. This work package delivers hands-on workshops through the 
-University of Liverpool's Widening Participation network and partner charity IntoUniversity, targeting approximately 180 children per year.
+University of Liverpool's [Widening Participation network](https://www.liverpool.ac.uk/study/widening-participation/) and partner charity [IntoUniversity](https://intouniversity.org/), targeting approximately 180 children per year.
 
 ## Repository contents
 
