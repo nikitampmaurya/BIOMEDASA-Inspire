@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18962395.svg)](https://doi.org/10.5281/zenodo.18962395)
+
 # BIOMEDASA - Inspire
 
 BIOMEDASA-Inspire promotes data science careers to schoolchildren in the Liverpool City Region, particularly those from deprived socioeconomic backgrounds. The diversity gap in data science 
